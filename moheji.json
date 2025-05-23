@@ -1,0 +1,16 @@
+{
+    "name": "moheji",
+    "symbol": "MOJ",
+    "decimals": 6,
+    "address": "HJwToCxFFmtnYGZMQa7rZwHAMG2evdbdXAbbQr1Jpump",
+    "logoURI": "https://raw.githubusercontent.com/mohejicoin/token-list/main/assets/mainnet/HJwToCxFFmtnYGZMQa7rZwHAMG2evdbdXAbbQr1Jpump/logo.png",
+    "tags": [
+        "community",
+        "utility-token"
+    ],
+    "extensions": {
+        "website": "https://1link.jp/moheji",
+        "description": "moheji is a creative token that expresses the spirit of independence and daily life through blockchain technology. Inspired by Japanese '\u3078\u3078\u306e\u3082\u3078\u3058' characters, it visually represents playfulness and simplicity. This token aims to encourage people to integrate blockchain into everyday life, providing moments of relaxation and expression.",
+        "github": "https://github.com/mohejicoin"
+    }
+}
