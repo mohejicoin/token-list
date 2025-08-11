@@ -4,8 +4,8 @@
     {
       "chainId": 101,
       "address": "DnbwSGgtnC1YdruuATd56A9tig4RWxCVkDqhMMN3bonk",
-      "symbol": "MOJ",
-      "name": "moheji",
+      "symbol": "moj",
+      "name": "Moheji",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/mohejicoin/token-list/main/assets/mainnet/DnbwSGgtnC1YdruuATd56A9tig4RWxCVkDqhMMN3bonk/logo.png",
       "tags": ["community-token"]
