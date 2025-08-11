@@ -1,4 +1,4 @@
-# moheji (MOJ) Token Info
+# moheji (moj) Token Info
 
 This repository is used to propose the addition of the moheji (MOJ) token to the Solana Token List.
 
