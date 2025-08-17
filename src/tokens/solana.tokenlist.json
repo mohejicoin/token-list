@@ -3,11 +3,11 @@
   "tokens": [
     {
       "chainId": 101,
-      "address": "DnbwSGgtnC1YdruuATd56A9tig4RWxCVkDqhMMN3bonk",
-      "symbol": "moj",
-      "name": "Moheji",
+      "address": "HJwToCxFFmtnYGZMQa7rZwHAMG2evdbdXAbbQr1Jpump",
+      "symbol": "MOJ",
+      "name": "moheji",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/mohejicoin/token-list/main/assets/mainnet/DnbwSGgtnC1YdruuATd56A9tig4RWxCVkDqhMMN3bonk/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/mohejicoin/token-list/main/assets/mainnet/HJwToCxFFmtnYGZMQa7rZwHAMG2evdbdXAbbQr1Jpump/logo.png",
       "tags": ["community-token"]
     }
   ]
