@@ -1,9 +1,9 @@
 {
-    "name": "Moheji",
-    "symbol": "moj",
+    "name": "moheji",
+    "symbol": "MOJ",
     "decimals": 6,
-    "address": "DnbwSGgtnC1YdruuATd56A9tig4RWxCVkDqhMMN3bonk",
-    "logoURI": "https://raw.githubusercontent.com/mohejicoin/token-list/main/assets/mainnet/DnbwSGgtnC1YdruuATd56A9tig4RWxCVkDqhMMN3bonk/logo.png",
+    "address": "HJwToCxFFmtnYGZMQa7rZwHAMG2evdbdXAbbQr1Jpump",
+    "logoURI": "https://raw.githubusercontent.com/mohejicoin/token-list/main/assets/mainnet/HJwToCxFFmtnYGZMQa7rZwHAMG2evdbdXAbbQr1Jpump/logo.png",
     "tags": [
         "community",
         "utility-token"
